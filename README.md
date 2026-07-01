@@ -1,127 +1,153 @@
 <div align="center">
 
-# Hi 👋 I'm Jeyasri Chellapandi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,25&text=JEYASRI%20CHELLAPANDI&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;MERN+Stack+Developer;Java+Developer;Learning+DSA+Every+Day;Building+Real+World+Projects" />
+<br>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=JEYSRIC17&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/JEYSRIC17?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/JEYSRIC17?style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&duration=3500&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL;Building+Modern+Web+Applications;Java+for+Data+Structures+and+Algorithms"/>
+
+<br><br>
+
+<a href="https://github.com/JEYASRIC17">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jeyasrichellapandi18">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 💫 About Me
+# About Me
 
-🎓 Recent Graduate
+I'm **Jeyasri Chellapandi**, a passionate **Full Stack Web Developer** focused on building modern, scalable and responsive web applications.
 
-🏢 Currently Interning at **Tarcin Robotics**
+My primary development stack is **MERN**, and I'm continuously improving my backend development, database design and problem-solving skills.
 
-💻 Passionate about **Software Development**
-
-🚀 Built **real-world MERN Stack applications**
-
-📚 Currently learning **Data Structures & Algorithms using Java**
-
-🎯 Goal: Become a Software Engineer and build scalable applications.
+Currently, I'm practicing **Java for Data Structures and Algorithms** while building practical full-stack applications.
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,tailwind,nodejs,express,mongodb,postgres,mysql,git,github,vscode,postman" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,postgres,git,github,vscode,figma,java&perline=8"/>
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=JEYSRIC17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEYSRIC17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# Development Focus
 
-<p align="center">
+<table>
 
-<img src="https://streak-stats.demolab.com?user=JEYSRIC17&theme=tokyonight&hide_border=true"/>
+<tr>
+<td width="50%">
 
-</p>
+### Frontend
 
----
+- React
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
-# 🏆 GitHub Trophies
+</td>
 
-<p align="center">
+<td width="50%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JEYSRIC17&theme=tokyonight&no-frame=true&column=4"/>
+### Backend
 
-</p>
+- Node.js
+- Express.js
+- REST APIs
+- PostgreSQL
+- MongoDB
+- Git & GitHub
 
----
+</td>
 
-# 📊 Contribution Graph
+</tr>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEYSRIC17&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 💼 Experience
-
-### Software Development Intern
-**Tarcin Robotics**
-
-- Developed real-world MERN Stack applications
-- Worked with REST APIs
-- Built responsive UI using React & Tailwind CSS
-- Used Node.js, Express.js, MongoDB & PostgreSQL
-- Collaborated with the development team
+</table>
 
 ---
 
-# 🌱 Currently Learning
+# GitHub Analytics
 
-- Data Structures & Algorithms (Java)
-- Advanced Backend Development
-- System Design
-- Software Engineering Best Practices
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JEYASRIC17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEYASRIC17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+# GitHub Streak
 
-<p align="left">
+<div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://streak-stats.demolab.com?user=JEYASRIC17&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JEYASRIC17&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,npm"/>
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jeyasrichellapandi18">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="https://github.com/JEYSRIC17">
-<img src="https://skillicons.dev/icons?i=github"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/JEYASRIC17">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Code • Learn • Build • Repeat"
+<img src="https://komarev.com/ghpvc/?username=JEYASRIC17&style=for-the-badge&color=0E75B6"/>
 
-*"Every project is a step closer to becoming the engineer I aspire to be."*
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,11,20,25"/>
 
 </div>
