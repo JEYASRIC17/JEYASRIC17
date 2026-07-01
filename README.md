@@ -309,3 +309,18 @@ Explore My Projects
 
 </tr>
 </table>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0F172A,50:2563EB,100:38BDF8&section=footer"/>
+
+### Thanks for visiting!
+
+Building modern web applications while continuously learning new technologies.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=JEYASRIC17&style=for-the-badge&color=blueviolet"/>
+
+</div>
