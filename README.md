@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,25&text=JEYASRI%20CHELLAPANDI&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24&text=JEYASRI%20CHELLAPANDI&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Web%20Developer&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&duration=3500&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL;Building+Modern+Web+Applications;Java+for+Data+Structures+and+Algorithms"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=27&pause=1200&duration=3500&color=58A6FF&center=true&vCenter=true&width=850&lines=Web+Developer;Building+Modern+Web+Applications;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL;Java+for+Data+Structures+and+Algorithms"/>
 
 <br><br>
 
@@ -22,11 +22,11 @@
 
 # About Me
 
-I'm **Jeyasri Chellapandi**, a passionate **Full Stack Web Developer** focused on building modern, scalable and responsive web applications.
+I'm **Jeyasri Chellapandi**, a passionate **Web Developer** who enjoys building modern, responsive, and user-friendly web applications.
 
-My primary development stack is **MERN**, and I'm continuously improving my backend development, database design and problem-solving skills.
+I primarily work with the **MERN Stack** and enjoy creating projects that combine clean UI, efficient backend development, and well-structured databases.
 
-Currently, I'm practicing **Java for Data Structures and Algorithms** while building practical full-stack applications.
+Currently, I'm strengthening my problem-solving skills by practicing **Data Structures and Algorithms using Java** while continuously improving my web development knowledge.
 
 ---
 
@@ -34,7 +34,7 @@ Currently, I'm practicing **Java for Data Structures and Algorithms** while buil
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,postgres,git,github,vscode,figma,java&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,postgres,java,git,github,vscode&perline=8"/>
 
 </div>
 
@@ -45,30 +45,30 @@ Currently, I'm practicing **Java for Data Structures and Algorithms** while buil
 <table>
 
 <tr>
+
 <td width="50%">
 
 ### Frontend
 
-- React
-- JavaScript
-- TypeScript
 - HTML5
 - CSS3
-- Tailwind CSS
 - Bootstrap
+- Tailwind CSS
+- JavaScript
+- TypeScript
+- React
 
 </td>
 
 <td width="50%">
 
-### Backend
+### Backend & Database
 
 - Node.js
 - Express.js
-- REST APIs
-- PostgreSQL
 - MongoDB
-- Git & GitHub
+- PostgreSQL
+- REST APIs
 
 </td>
 
@@ -78,19 +78,37 @@ Currently, I'm practicing **Java for Data Structures and Algorithms** while buil
 
 ---
 
-# GitHub Analytics
+# Tools I Use
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JEYASRIC17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEYASRIC17&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Thunder%20Client-6C63FF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# GitHub Streak
+# GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JEYASRIC17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEYASRIC17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Streak
 
 <div align="center">
 
@@ -100,7 +118,7 @@ Currently, I'm practicing **Java for Data Structures and Algorithms** while buil
 
 ---
 
-# Contribution Graph
+# Contribution Activity
 
 <div align="center">
 
@@ -110,28 +128,28 @@ Currently, I'm practicing **Java for Data Structures and Algorithms** while buil
 
 ---
 
-# Development Tools
+# Currently Learning
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,npm"/>
-
-</div>
+- Advanced React
+- Backend Development
+- PostgreSQL
+- API Development
+- Java for Data Structures & Algorithms
 
 ---
 
-# Connect
+# Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jeyasrichellapandi18">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/JEYASRIC17">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 </div>
@@ -144,10 +162,8 @@ Currently, I'm practicing **Java for Data Structures and Algorithms** while buil
 
 </div>
 
----
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,11,20,25"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,12,20,24"/>
 
 </div>
