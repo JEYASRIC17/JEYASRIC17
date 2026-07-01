@@ -275,55 +275,48 @@ Deployment
 
 ---
 
-# Connect With Me
+# Connect
 
-<div align="center">
+<table align="center">
+
+<tr>
+
+<td align="center" width="280">
 
 <a href="https://www.linkedin.com/in/jeyasrichellapandi18">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+
+<img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
+
+<br>
+
+<b>LinkedIn</b>
+
+<br>
+
+Professional Profile
+
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center" width="280">
 
 <a href="https://github.com/JEYASRIC17">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-</a>
 
-</div>
+<img src="https://skillicons.dev/icons?i=github" width="52"/>
 
 <br>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jeyasrichellapandi18">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/JEYASRIC17?tab=repositories">
-<img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile.
-
-*"Keep learning. Keep building. Keep improving."*
-
-</div>
+<b>GitHub</b>
 
 <br>
 
-<div align="center">
+Explore Repositories
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:38BDF8"/>
+</a>
 
-</div>
+</td>
 
----
+</tr>
 
+</table>
