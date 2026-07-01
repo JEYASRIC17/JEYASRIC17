@@ -275,23 +275,18 @@ Deployment
 
 ---
 
-# Connect
+
+# Connect With Me
 
 <table align="center">
-
 <tr>
 
-<td align="center" width="280">
+<td align="center" width="220">
 
 <a href="https://www.linkedin.com/in/jeyasrichellapandi18">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 
-<img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
-
-<br>
-
-<b>LinkedIn</b>
-
-<br>
+### LinkedIn
 
 Professional Profile
 
@@ -299,24 +294,18 @@ Professional Profile
 
 </td>
 
-<td align="center" width="280">
+<td align="center" width="220">
 
 <a href="https://github.com/JEYASRIC17">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 
-<img src="https://skillicons.dev/icons?i=github" width="52"/>
+### GitHub
 
-<br>
-
-<b>GitHub</b>
-
-<br>
-
-Explore Repositories
+Explore My Projects
 
 </a>
 
 </td>
 
 </tr>
-
 </table>
